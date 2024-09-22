@@ -6,3 +6,4 @@
 4) Optimized rendring. <br>
 5) API easy to ready. <br>
 6) midleware configer also easy to difine.
+*:- nextJS.org
