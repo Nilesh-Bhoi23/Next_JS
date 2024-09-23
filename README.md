@@ -8,4 +8,6 @@
 6) midleware configer also easy to difine.
 *:- nextJS.org
 <hr>
- Practice Section
+ Practice Section : <br>
+ 1) Introdiuction to Next.js File bases Routing 
+ 
