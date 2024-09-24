@@ -11,3 +11,4 @@
  Practice Section : <br>
  1) Introdiuction to Next.js File bases Routing <br>
  2) Server Components in Next.js
+ 3) Script,Link & image Components in Next.js 
