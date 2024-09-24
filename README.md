@@ -10,4 +10,4 @@
 <hr>
  Practice Section : <br>
  1) Introdiuction to Next.js File bases Routing <br>
- 
+ 2) Server Components in Next.js
