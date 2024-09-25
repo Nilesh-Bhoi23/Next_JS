@@ -10,6 +10,6 @@
 <hr>
  Practice Section : <br>
  1) Introdiuction to Next.js File bases Routing <br>
- 2) Server Components in Next.js
- 3) Script,Link & image Components in Next.js 
- 4) Creating API's In Next.js
+ 2) Server Components in Next.js <br>
+ 3) Script,Link & image Components in Next.js <br>
+ 4) Creating API's In Next.js <br>
