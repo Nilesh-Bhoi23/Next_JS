@@ -13,5 +13,5 @@
  2) Server Components in Next.js <br>
  3) Script,Link & image Components in Next.js <br>
  4) Creating API's In Next.js <br>
- 5) Server Actions In Next.js
+ 5) Server Actions In Next.js <br>
  6) Middleware In next.JS
