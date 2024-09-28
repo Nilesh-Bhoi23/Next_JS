@@ -14,5 +14,6 @@ re # Next js
  3) Script,Link & image Components in Next.js <br>
  4) Creating API's In Next.js <br>
  5) Server Actions In Next.js <br>
- 6) Middleware In next.JS
- 7) Auth.js
+ 6) Middleware In next.JS   <br>
+ 7) Auth.js <br>
+ 8) Dynamic Routes in Next.js 
