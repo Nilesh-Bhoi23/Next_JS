@@ -1,4 +1,4 @@
-# Next js
+re # Next js
 <h2>Why next Js</h2>
 1) File Stack Solution. <br>
 2) File base Routing. <br>
@@ -15,3 +15,4 @@
  4) Creating API's In Next.js <br>
  5) Server Actions In Next.js <br>
  6) Middleware In next.JS
+ 7) Auth.js
