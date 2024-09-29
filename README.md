@@ -16,5 +16,5 @@ re # Next js
  5) Server Actions In Next.js <br>
  6) Middleware In next.JS   <br>
  7) Auth.js <br>
- 8) Dynamic Routes in Next.js 
+ 8) Dynamic Routes in Next.js  <br>
  9) Layouts in Next.js
